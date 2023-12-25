@@ -38,4 +38,4 @@
 **ER-диаграмма:**
 - Структура данных БД
 
-![Изображение](https://2.downloader.disk.yandex.ru/preview/f18a76e943e2a5034b764c67d71438ed5dd9d53a0dee46535314c34e89154222/inf/AJISjF4h-BPUuZeyyyQZsDYA0hPpw8437gQdx0o8XGbiT5GuN_HjXhr7xaLd_PbhdU6GUWwiRbfDd1J6kRtp8Q%3D%3D?uid=375844755&filename=ER-dia.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=375844755&tknv=v2&size=910x942 "ER-диаграмма")
+<img src="https://2.downloader.disk.yandex.ru/preview/f18a76e943e2a5034b764c67d71438ed5dd9d53a0dee46535314c34e89154222/inf/AJISjF4h-BPUuZeyyyQZsDYA0hPpw8437gQdx0o8XGbiT5GuN_HjXhr7xaLd_PbhdU6GUWwiRbfDd1J6kRtp8Q%3D%3D?uid=375844755&filename=ER-dia.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=375844755&tknv=v2&size=910x942 "ER-диаграмма"" alt="image" >
