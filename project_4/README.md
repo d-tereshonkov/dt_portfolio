@@ -1,5 +1,5 @@
-# <p style="text-align: center;">Анализ поведения пользователей в мобильном приложении </p><img src="https://img.icons8.com/color/48/member-skin-type-7.png" alt="image" width="40" height="35">
-
+# <p style="text-align: center;">Анализ поведения пользователей в мобильном приложении <img src="https://img.icons8.com/color/48/member-skin-type-7.png" alt="image" width="40" height="35">
+</p>
 **Описание данных:**
 
 Датасет содержит данные о событиях, совершенных в мобильном приложении
