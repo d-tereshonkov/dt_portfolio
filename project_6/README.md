@@ -38,5 +38,5 @@
 **ER-диаграмма:**
 - Структура данных БД
 
-![ER-диаграмма](https://disk.yandex.ru/i/hL4Vyf9ceS-EEw)
+![ER-диаграмма](https://github.com/d-tereshonkov/dt_portfolio/blob/main/project_6/ER-dia.jpg)
 
