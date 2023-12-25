@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Анализ поведения пользователей в мобильном приложении </p> <img src="https://img.icons8.com/color/48/member-skin-type-7.png" alt="image" width="40" height="35">
+# <p style="text-align: center;">Анализ поведения пользователей в мобильном приложении </p><img src="https://img.icons8.com/color/48/member-skin-type-7.png" alt="image" width="40" height="35">
 
 **Описание данных:**
 
